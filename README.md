@@ -1,4 +1,26 @@
-### Hi there 👋
+
+
+ <div align = "center">
+  
+  ##   ✳Bem-vindo ao meu perfil  👋
+ - Meu nome é <b>Maria Fernanda</b>, sou Desenvolvedora Back-End e Analista de Dados.
+
+  ## Tecnologias: 
+- Linguagens: Python, HTML5, CSS3, JavaScript
+- Ferramentas: GIT, PowerBI, VSCode, Dbeaver, Excel
+- Frameworks: BOOTSTRAP, DJANGO.
+- Metodologias ágeis: Scrum e Kanbam 
+
+
+## Contatos:
+<div> 
+  <a href="https://www.linkedin.com/in/mariafernandablois/"><img src="https://img.shields.io/badge/LinkedIn -0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  <a href= "mailto:mariafernandaximenesblois@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>                               </div>
+
+## Dicas e notícias de tecnologia:
+ <a href="https://www.instagram.com/mf.tech01/" target="_blank"><img src="https://img.shields.io/badge/MF.tech01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+
+</div>
 
 <!--
 **Nandabdev/nandabdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
