@@ -1,13 +1,13 @@
 
 
- <div align = "center">
+ <div>
   
-  ##   ✳Bem-vindo ao meu perfil  👋
- - Meu nome é <b>Maria Fernanda</b>, sou Desenvolvedora Back-End e Analista de Dados.
+  ## Bem-vindo ao meu perfil  👋
+ - Meu nome é <b>Maria Fernanda</b>, sou Desenvolvedora Back-End
 
   ## Tecnologias: 
-- Linguagens: Python, HTML5, CSS3, JavaScript
-- Ferramentas: GIT, PowerBI, VSCode, Dbeaver, Excel
+- Linguagens: Python, HTML5, CSS3
+- Ferramentas: GIT, PowerBI, VSCode, Dbeaver, Excel, Trello, Miro
 - Frameworks: BOOTSTRAP, DJANGO.
 - Metodologias ágeis: Scrum e Kanbam 
 
