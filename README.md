@@ -2,7 +2,7 @@
 
  <div>
   
-  ## Bem-vindo ao meu perfil  👋
+  ## Seja bem-vindo(a)! 
  - Meu nome é <b>Maria Fernanda</b>
  - Desenvolvedora Back-End | Segurança Digital
 
