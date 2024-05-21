@@ -9,8 +9,8 @@
   ## Tecnologias: 
 - Linguagens: Python,Java, HTML5, CSS3
 - Ferramentas: GIT, PowerBI, VSCode, Dbeaver, Excel, Trello, Miro
-- Frameworks: BOOTSTRAP, DJANGO.
-- Metodologias ágeis: Scrum e Kanbam 
+- Frameworks: BOOTSTRAP, DJANGO, SCRUM
+
 
 
 ## Contatos:
