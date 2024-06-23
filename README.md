@@ -4,12 +4,14 @@
   
   ## Seja bem-vindo(a)! 
  - Meu nome é <b>Maria Fernanda</b>
- - Desenvolvedora Back-End | Segurança Digital
+ - Desenvolvedora Web | Python e Django | Entusiasta em Tecnologias e Segurança da Informação
 
   ## Tecnologias: 
-- Linguagens: Python,Java, HTML5, CSS3
-- Ferramentas: GIT, PowerBI, VSCode, Dbeaver, Excel, Trello, Miro
-- Frameworks: BOOTSTRAP, DJANGO, SCRUM
+- Desenvolvimento em Python para aplicações Back-End.
+- Uso dos frameworks Django, Bootstrap e Scrum.
+- Utilização de ferramentas como Git, PowerBI, VS Code, DBeaver, Excel e Trello.
+- Experiência com bancos de dados SQLite e MySQL.
+- Práticas sólidas em Segurança da Informação.
 
 
 
